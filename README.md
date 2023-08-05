@@ -1,4 +1,4 @@
-# BlindTravel
+# Blind Travel
 
 Very easy to use.
 Just run with python and enter your nether coordinates
